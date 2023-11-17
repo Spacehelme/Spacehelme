@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spacehelme
-- 👀 I’m interested in coding in HTML, CSS, JAVASCRIPT. I also like collecting gaming mice; I currently have 10 mice.
-- 🌱 I’m currently learning HTML, CSS, and JAVASCRIPT.
-- 💞️ I’m not looking to collaborate on anything yet.
+- 👀 I’m interested in coding in HTML, CSS, JAVASCRIPT.
+- 🌱 I’m currently learning C#.               #HTML, CSS, and JAVASCRIPT
+- 💞️ I’m not ready to collaborate on anything yet.
 - 📫 How to reach me Tadkitchens@gmail.com
 
 <!---
