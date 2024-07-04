@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spacehelme
-- 👀 I’m interested in coding in HTML, CSS, JAVASCRIPT.
-- 🌱 I’m currently learning Python
-- ⌚ I have some past experience in C#, HTML, CSS.
+- 👀 I’m interested in coding in Bash
+- 🌱 I’m currently trying to learn SQL
+- ⌚ I have a little bit of past experience in C#, HTML, CSS.
 - 💞️ I’m not ready to collaborate on anything yet.
 
 
