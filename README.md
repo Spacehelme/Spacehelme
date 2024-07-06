@@ -1,7 +1,7 @@
-![](https://github.com/Spacehelme/Spacehelme/blob/main/ezgif-3-902c79f775-C2YyVzc8-unscreen-ezgif.com-effects.gif)
+![](https://github.com/Spacehelme/Spacehelme/blob/main/VHF_Sine_wave.gif)
 
 
-- 👋 Hi, I’m @Spacehelme
+- 👋 Hi, I’m Tad Kitchens
 - 👀 I’m interested in coding in Bash
 - 🌱 I’m currently trying to learn SQL
 - ⌚ I have a little bit of past experience in C#, HTML, CSS.
